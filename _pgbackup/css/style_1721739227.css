@@ -1,0 +1,48 @@
+:root {
+    --bs-body-bg: rgba(0,0,0,0.85) !important;
+}
+
+body {
+    background-color: var(--bs-body-bg);
+}
+
+.navbar-nav .nav-link.active {
+    color: var(--bs-primary-bg-subtle) !important;
+}
+
+.shift-left {
+    @media (width >= 1000px) {
+        margin-inline-start: -55px;
+    }
+}
+
+.container,
+.container-fluid {
+    padding: 2rem 3rem;
+}
+
+.pgia-slider {
+    height: auto !important;
+}
+
+.pgia-slide {
+    display: block !important;
+    max-height: auto;
+    width: 100%;
+    object-fit: cover;
+}
+
+.portrait-masked {
+    --primary-adjusted: color-mix(in srgb, var(--bs-primary) 50%, white 50%);
+    border: 3px solid color-mix(in srgb, var(--cyan-10) 50%, white);
+    background: linear-gradient(var(--primary-adjusted), transparent);
+    mask-image: linear-gradient(black 75%, transparent 95%);
+}
+
+.about-p {
+    hyphens: auto;
+    text-align: justified;
+    text-wrap: pretty;
+}
+
+

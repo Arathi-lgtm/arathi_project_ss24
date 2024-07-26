@@ -1,0 +1,74 @@
+<project>
+    <documents></documents>
+    <dmdesigns>
+        <dmdesign>
+            <dmdesignskill skill="bs5.colors">
+                <dmcolor key="primary" color="#0abf53"/>
+                <dmcolor key="secondary" color="#51596c"/>
+                <dmcolor key="info" color="#334ac0"/>
+                <dmcolor key="success" color="#077c76"/>
+                <dmcolor key="warning" color="#cc9378"/>
+                <dmcolor key="danger" color="#692340"/>
+                <dmcolor key="white" color="white"/>
+                <dmcolor key="light" color="#f8f9fa"/>
+                <dmcolor key="dark" color="#2d374b"/>
+            </dmdesignskill>
+            <dmdesignskill skill="fonts" text_family="Inter"></dmdesignskill>
+            <dmdesignskill skill="headings"></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors="true" advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0"></dmdesignskill>
+            <dmdesignskill skill="bootstrap" shadows="0" buttonRoundness="2" roundness="2" sizer="0" gutter="0" contrast="1"></dmdesignskill>
+        </dmdesign>
+        <dmdesign active>
+            <dmdesignskill skill="bs5.colors">
+                <dmcolor key="primary" color="#125e88"/>
+                <dmcolor key="secondary" color="#e59c24"/>
+                <dmcolor key="info" color="#ffeccc"/>
+                <dmcolor key="success" color="#8b7356"/>
+                <dmcolor key="warning" color="#933e32"/>
+                <dmcolor key="danger" color="#814663"/>
+                <dmcolor key="white" color="white"/>
+                <dmcolor key="light" color="#9eadbd"/>
+                <dmcolor key="dark" color="#3a4856"/>
+            </dmdesignskill>
+            <dmdesignskill skill="fonts" text_family="Cabin" text_weight="" text_color="" text_spacing="" text_effect="" text_italic="" text_smallcaps="" text_uppercase="" headings_family="Maven Pro" headings_weight="" headings_color="" headings_spacing="" headings_effect="" headings_italic="" headings_smallcaps="" headings_uppercase=""></dmdesignskill>
+            <dmdesignskill skill="headings" h1_family h1_weight="" h1_color="" h1_spacing="" h1_effect="" h1_italic="" h1_smallcaps="" h1_uppercase="" h2_family h2_weight="" h2_color h2_spacing="" h2_effect="" h2_italic="" h2_smallcaps="" h2_uppercase=""></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors="true" advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0" image="https://images.unsplash.com/photo-1476842634003-7dcca8f832de?ixid=M3wyMDkyMnwwfDF8c2VhcmNofDEzNHx8d2FsbHBhcGVyfGVufDB8fHx8MTcwNTA1NjIxMHww&ixlib=rb-4.0.3q=85&fm=jpg&crop=faces&cs=srgb&w=1200&fit=max"></dmdesignskill>
+            <dmdesignskill skill="bootstrap" shadows="0" buttonRoundness="2" roundness="2" gradients="1" responsive_fonts="1"></dmdesignskill>
+        </dmdesign>
+        <dmdesign>
+            <dmdesignskill skill="bs5.colors">
+                <dmcolor key="primary" color="rgb(63,191,191)"/>
+                <dmcolor key="secondary" color="rgb(4,12,12)"/>
+                <dmcolor key="info" color="rgb(155,221,221)"/>
+                <dmcolor key="success" color="#077c76"/>
+                <dmcolor key="warning" color="#f39568"/>
+                <dmcolor key="danger" color="#692340"/>
+                <dmcolor key="white" color="white"/>
+                <dmcolor key="light" color="#f8f9fa"/>
+                <dmcolor key="dark" color="#2d374b"/>
+            </dmdesignskill>
+            <dmdesignskill skill="fonts" text_family="&quot;Courier New&quot;, Courier, monospace" text_weight="" text_color="" text_spacing="" text_effect="" text_italic="" text_smallcaps="" text_uppercase="" headings_family="Kufam" headings_weight="" headings_color="" headings_spacing="" headings_effect="" headings_italic="" headings_smallcaps="" headings_uppercase=""></dmdesignskill>
+            <dmdesignskill skill="headings" h1_family="Josefin Sans" h1_weight="" h1_color="" h1_spacing="" h1_effect="" h1_italic="" h1_smallcaps="" h1_uppercase="" h2_family="Josefin Sans" h2_weight="" h2_color="" h2_spacing="" h2_effect="" h2_italic="" h2_smallcaps="" h2_uppercase=""></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors="true" advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0" image="https://images.unsplash.com/photo-1489782419474-4d4221dc5b10?ixid=M3wyMDkyMnwwfDF8c2VhcmNofDEyMnx8d2FsbHBhcGVyfGVufDB8fHx8MTcwNTA1NjIxMHww&ixlib=rb-4.0.3q=85&fm=jpg&crop=faces&cs=srgb&w=1200&fit=max"></dmdesignskill>
+            <dmdesignskill skill="bootstrap" shadows="4" buttonRoundness="1" roundness="2" gradients="1" responsive_fonts="1"></dmdesignskill>
+        </dmdesign>
+        <dmdesign>
+            <dmdesignskill skill="bs5.colors">
+                <dmcolor key="primary" color="rgb(4,135,193)"/>
+                <dmcolor key="secondary" color="rgb(4,96,153)"/>
+                <dmcolor key="info" color="rgb(236,110,89)"/>
+                <dmcolor key="success" color="#077c76"/>
+                <dmcolor key="warning" color="#f39568"/>
+                <dmcolor key="danger" color="#692340"/>
+                <dmcolor key="white" color="white"/>
+                <dmcolor key="light" color="#f8f9fa"/>
+                <dmcolor key="dark" color="#2d374b"/>
+            </dmdesignskill>
+            <dmdesignskill skill="fonts" text_family="Cabin" text_weight="" text_color="" text_spacing="" text_effect="" text_italic="" text_smallcaps="" text_uppercase="" headings_family="Zilla Slab" headings_weight="" headings_color="" headings_spacing="" headings_effect="" headings_italic="" headings_smallcaps="" headings_uppercase=""></dmdesignskill>
+            <dmdesignskill skill="headings" h1_family="&quot;Lucida Console&quot;, Monaco, monospace" h1_weight="" h1_color="" h1_spacing="" h1_effect="" h1_italic="" h1_smallcaps="" h1_uppercase="" h2_family="&quot;Lucida Console&quot;, Monaco, monospace" h2_weight="" h2_color="" h2_spacing="" h2_effect="" h2_italic="" h2_smallcaps="" h2_uppercase=""></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors="true" advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0" image="https://images.unsplash.com/photo-1604871000636-074fa5117945?ixid=M3wyMDkyMnwwfDF8c2VhcmNofDEzNXx8d2FsbHBhcGVyfGVufDB8fHx8MTcwNTA1NjIxMHww&ixlib=rb-4.0.3q=85&fm=jpg&crop=faces&cs=srgb&w=1200&fit=max"></dmdesignskill>
+            <dmdesignskill skill="bootstrap" shadows="1" buttonRoundness="0" roundness="0" gradients="1" responsive_fonts="1"></dmdesignskill>
+        </dmdesign>
+    </dmdesigns>
+    <dmlocked bs5-colors-primary="false" bs5-colors-secondary="false" bs5-colors-info="false" bs5-colors-success="true" bs5-colors-warning="true" bs5-colors-danger="true" bs5-colors-white="true" bs5-colors-light="true" bs5-colors-dark="true"></dmlocked>
+</project>
